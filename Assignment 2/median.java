@@ -1,6 +1,5 @@
 /*
 Chris Holland
-V00876844
 CSC 225, assignment #2
 */
 import java.util.Scanner;
