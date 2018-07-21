@@ -3,7 +3,6 @@
 */
 /*
 Chris Holland
-V00876844
 CSC 225, Assignment 1
 */
 import java.util.Stack; // I imported this, it was not included in the original file
