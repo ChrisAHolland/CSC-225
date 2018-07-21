@@ -1,6 +1,5 @@
 /*
 Chris Holland
-V00876844
 CSC 225, Assignment #3
 */
 
